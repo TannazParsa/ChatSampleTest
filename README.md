@@ -1,2 +1,2 @@
 # ChatSampleTest
-chat sample for test
+This project is a public chat sample using firebase database.
